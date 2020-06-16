@@ -1,2 +1,2 @@
 Hi!!! Im bob. Added during training.
-Hi.. Added a new bug fix
+Hi.. Added a new defect fix
